@@ -1,6 +1,9 @@
 # Hi, I'm Wiktor 👋👨‍💻
 
-<img src="https://raw.githubusercontent.com/vityk-dev/vityk-dev/master/banner.PNG" alt="banner that says Viktor Goshchynskyi - student, python lover, front-end developer and community organizer">
+<img src="https://raw.githubusercontent.com/vityk-dev/vityk-dev/master/banner.PNG" 
+     alt="banner that says Viktor Goshchynskyi - student, python lover, front-end developer and community organizer" 
+     width="1100" 
+     height="400">
 I'm a student in AGH University of Science and Technology 👨‍🎓 who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python🐍, Machine Learning, Story telling with data, Data Science, Git, PowerBi and many more.
 
 
