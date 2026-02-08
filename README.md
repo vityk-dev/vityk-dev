@@ -81,5 +81,5 @@ My experience blends **Machine Learning, Data Analytics, IoT, and Leadership** â
 
 ### ðŸ“¬ Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktor-goszczynski/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/wiktor-goszczy%C5%84ski-852a0420b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vityk4work@gmail.com)
